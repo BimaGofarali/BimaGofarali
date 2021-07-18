@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/http//BimaGofarali.github.io/bimagofaralirobi/static/css/main.e6844932.chunk.css",
+    "main.js": "/http//BimaGofarali.github.io/bimagofaralirobi/static/js/main.177275d5.chunk.js",
+    "main.js.map": "/http//BimaGofarali.github.io/bimagofaralirobi/static/js/main.177275d5.chunk.js.map",
+    "runtime-main.js": "/http//BimaGofarali.github.io/bimagofaralirobi/static/js/runtime-main.9b2114ed.js",
+    "runtime-main.js.map": "/http//BimaGofarali.github.io/bimagofaralirobi/static/js/runtime-main.9b2114ed.js.map",
+    "static/css/2.4be38407.chunk.css": "/http//BimaGofarali.github.io/bimagofaralirobi/static/css/2.4be38407.chunk.css",
+    "static/js/2.58eb0fd3.chunk.js": "/http//BimaGofarali.github.io/bimagofaralirobi/static/js/2.58eb0fd3.chunk.js",
+    "static/js/2.58eb0fd3.chunk.js.map": "/http//BimaGofarali.github.io/bimagofaralirobi/static/js/2.58eb0fd3.chunk.js.map",
+    "static/js/3.b84ef62f.chunk.js": "/http//BimaGofarali.github.io/bimagofaralirobi/static/js/3.b84ef62f.chunk.js",
+    "static/js/3.b84ef62f.chunk.js.map": "/http//BimaGofarali.github.io/bimagofaralirobi/static/js/3.b84ef62f.chunk.js.map",
+    "index.html": "/http//BimaGofarali.github.io/bimagofaralirobi/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/http//BimaGofarali.github.io/bimagofaralirobi/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.e6844932.chunk.css.map": "/http//BimaGofarali.github.io/bimagofaralirobi/static/css/main.e6844932.chunk.css.map",
+    "static/js/2.58eb0fd3.chunk.js.LICENSE.txt": "/http//BimaGofarali.github.io/bimagofaralirobi/static/js/2.58eb0fd3.chunk.js.LICENSE.txt",
+    "static/media/_CPC6097.f9cc2473.jpg": "/http//BimaGofarali.github.io/bimagofaralirobi/static/media/_CPC6097.f9cc2473.jpg",
+    "static/media/berenang.fc5513e5.jpg": "/http//BimaGofarali.github.io/bimagofaralirobi/static/media/berenang.fc5513e5.jpg",
+    "static/media/camping.77af89a9.jpg": "/http//BimaGofarali.github.io/bimagofaralirobi/static/media/camping.77af89a9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b2114ed.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.58eb0fd3.chunk.js",
+    "static/css/main.e6844932.chunk.css",
+    "static/js/main.177275d5.chunk.js"
+  ]
+}
